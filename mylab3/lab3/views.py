@@ -1,4 +1,6 @@
-Branch B3
+
+Branch new B3
+
 from django.http import HttpResponseRedirect
 from django.template import Context
 from django.shortcuts import render_to_response
